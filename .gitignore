@@ -77,3 +77,6 @@ nodemon.json
 
 #parceljs cache
 .cache/
+
+#parceljs cache
+dist/
