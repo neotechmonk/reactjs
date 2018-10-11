@@ -1,0 +1,26 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Basic React app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "parceljs",
+    "wedpack"
+  ],
+  "author": "Theepan Thevathasan",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.10.2",
+    "react-dom": "^16.5.2",
+    "rect": "^1.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
